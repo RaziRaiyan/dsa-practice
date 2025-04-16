@@ -15,6 +15,7 @@ public class LearnHashMap {
         System.out.println("Contains key One: " + map.containsKey("One"));
         System.out.println("Contains value 1: " + map.containsValue(1));
 
+        System.out.println("Size of map: " + map.get("One"));
         map.remove("One");
         System.out.println(map);
 
