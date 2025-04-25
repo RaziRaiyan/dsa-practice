@@ -120,7 +120,3 @@ Each pattern includes:
 - Website: Refactoring.guru
 - YouTube: Gaurav Sen, System Design Primer
 - Practice: LeetCode + DesignGuru.io
-
----
-
-Would you like me to generate one pattern per day with example and usage so you can learn progressively?
